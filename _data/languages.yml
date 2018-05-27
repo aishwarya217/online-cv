@@ -1,9 +1,12 @@
 - language:
   idiom: English
+  level: Professional
+- language:
+  idiom: Marathi
   level: Native
 - language:
-  idiom: French
-  level: Professional
-- language:
-  idiom: Spanish
-  level: Professional
+  idiom: Hindi
+  level: Fluent
+ - language:
+   idiom: Kannada
+   level: Fluent
