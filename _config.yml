@@ -25,8 +25,8 @@ montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu
 #sidebar links
 email: kalliman@usc.edu
 phone: (213) 327 5304
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
+#website: blog.webjeda.com #do not add http://
+linkedin: aishwarya-kallimani
 github: aishwarya217
 
 #Update all the sections by editing the files inside _data folder.
